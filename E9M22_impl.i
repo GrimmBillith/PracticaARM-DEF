@@ -36,11 +36,11 @@ int_to_E9M22	=	int_to_E9M22_c	@; Versió en C
 @;* Operacions ARITMÈTIQUES en Coma Flotant E9M22 *
 @;*************************************************
 
-@;E9M22_add	=	E9M22_add_c	@; Versió en C
-E9M22_add	=	E9M22_add_s	@; Versió assemblador
+E9M22_add	=	E9M22_add_c	@; Versió en C
+@;E9M22_add	=	E9M22_add_s	@; Versió assemblador
 
-@;E9M22_sub	=	E9M22_sub_c	@; Versió en C
-E9M22_sub	=	E9M22_sub_s	@; Versió assemblador
+E9M22_sub	=	E9M22_sub_c	@; Versió en C
+@;E9M22_sub	=	E9M22_sub_s	@; Versió assemblador
 
 E9M22_mul	=	E9M22_mul_c	@; Versió en C
 @;E9M22_mul	=	E9M22_mul_s	@; Versió assemblador
@@ -48,34 +48,34 @@ E9M22_mul	=	E9M22_mul_c	@; Versió en C
 E9M22_div	=	E9M22_div_c	@; Versió en C
 @;E9M22_div	=	E9M22_div_s	@; Versió assemblador
 
-@;E9M22_neg	=	E9M22_neg_c	@; Versió en C
-E9M22_neg	=	E9M22_neg_s	@; Versió assemblador
+E9M22_neg	=	E9M22_neg_c	@; Versió en C
+@;E9M22_neg	=	E9M22_neg_s	@; Versió assemblador
 
-@;E9M22_abs	=	E9M22_abs_c	@; Versió en C
-E9M22_abs	=	E9M22_abs_s	@; Versió assemblador
+E9M22_abs	=	E9M22_abs_c	@; Versió en C
+@;E9M22_abs	=	E9M22_abs_s	@; Versió assemblador
 
 
 @;*************************************************************
 @;* Operacions de COMPARACIÓ de números en Coma Flotant E9M22 *
 @;*************************************************************
 
-@;E9M22_are_eq	=	E9M22_are_eq_c	@; Versió en C
-E9M22_are_eq	=	E9M22_are_eq_s	@; Versió assemblador
+E9M22_are_eq	=	E9M22_are_eq_c	@; Versió en C
+@;E9M22_are_eq	=	E9M22_are_eq_s	@; Versió assemblador
 
-@;E9M22_are_ne	=	E9M22_are_ne_c	@; Versió en C
-E9M22_are_ne	=	E9M22_are_ne_s	@; Versió assemblador
+E9M22_are_ne	=	E9M22_are_ne_c	@; Versió en C
+@;E9M22_are_ne	=	E9M22_are_ne_s	@; Versió assemblador
 
 E9M22_are_unordered	=		E9M22_are_unordered_c	@; Versió en C
 @;E9M22_are_unordered	=	E9M22_are_unordered_s	@; Versió assemblador
 
-@;E9M22_is_gt	=		E9M22_is_gt_c	@; Versió en C
-E9M22_is_gt	=	E9M22_is_gt_s	@; Versió assemblador
+E9M22_is_gt	=		E9M22_is_gt_c	@; Versió en C
+@;E9M22_is_gt	=	E9M22_is_gt_s	@; Versió assemblador
 
-@;E9M22_is_ge	=		E9M22_is_ge_c	@; Versió en C
-E9M22_is_ge	=	E9M22_is_ge_s	@; Versió assemblador
+E9M22_is_ge	=		E9M22_is_ge_c	@; Versió en C
+@;E9M22_is_ge	=	E9M22_is_ge_s	@; Versió assemblador
 
-@;E9M22_is_lt	=		E9M22_is_lt_c	@; Versió en C
-E9M22_is_lt	=	E9M22_is_lt_s	@; Versió assemblador
+E9M22_is_lt	=		E9M22_is_lt_c	@; Versió en C
+@;E9M22_is_lt	=	E9M22_is_lt_s	@; Versió assemblador
 
 E9M22_is_le	=		E9M22_is_le_c	@; Versió en C
 @;E9M22_is_le	=	E9M22_is_le_s	@; Versió assemblador
